@@ -1,5 +1,6 @@
-# Hi there, I'm [Gloria](https://glorelvalle.github.io)! 👋
-I'm passionate about interpretability and LLM models. Valuing communication and social connections, I find collaboration to be a constant source of learning.
+# Hi there, I'm [Gloria](https://glorelvalle.github.io)! 👩🏼‍💻
+I'm passionate about interpretability and LLM models. 
+Valuing communication and social connections, I find collaboration to be a constant source of learning.
 
 ### Experience
 - Data analytics and AI modeling consulting.

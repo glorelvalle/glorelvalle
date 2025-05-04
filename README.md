@@ -1,8 +1,6 @@
 # Hey, I'm [Gloria](https://glorelvalle.github.io)! 👩🏼‍💻
 
-- 🔍 Currently working as an NLP Engineer @ [Certainly](https://certainly.io/)
-- 🌱 Exploring RAG techniques with Knowledge Graphs.
-- 🤝 Eager to learn from awesome peers and share my knowledge.
+- 🔍 Currently working as a freelancer NLP Engineer.
 - 🛡️ Previously tackled hate speech detection and built decision-making models.
 - 🎓 Hold a degree in Computer Science Engineering & MSc in Data Science.
 - 🌟 Pronouns: she/her.
